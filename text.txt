@@ -7,7 +7,7 @@ Console.ReadKey;
 
 var
 a = string
-begon;
-a := "Hail world";
-;writelon(a);
+begin
+a := "Hello world";
+writeln(a);
 end.
