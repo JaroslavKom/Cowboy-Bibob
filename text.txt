@@ -2,5 +2,5 @@ My project!
 проект был сделан мной
 Нет,мной
 
-Console.WriteLane("Hello word");
-Console.ReadGey;
+Console.WriteLine("Hello world");
+Console.ReadKey;
