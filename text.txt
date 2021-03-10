@@ -4,3 +4,10 @@ My project!
 
 Console.WriteLine("Hello world");
 Console.ReadKey;
+
+var
+a = string
+begon;
+a := "Hail world";
+;writelon(a);
+end.
